@@ -1,5 +1,5 @@
-All,All,module,Magento_AdminGws
-None,None,module,Magento_AdminGws
+All,सभी,module,Magento_AdminGws
+None,"कोई नहीं",module,Magento_AdminGws
 "Allowed Scopes","Allowed Scopes",module,Magento_AdminGws
 "You need more permissions to delete this item(s): %1.","You need more permissions to delete this item(s): %1.",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","You need more permissions to apply some of the rule updates.",module,Magento_AdminGws
@@ -16,7 +16,7 @@ None,None,module,Magento_AdminGws
 "Incorrect store ID: %1","Incorrect store ID: %1",module,Magento_AdminGws
 "You need more permissions to save this setting.","You need more permissions to save this setting.",module,Magento_AdminGws
 "Role Scopes","Role Scopes",module,Magento_AdminGws
-Custom,Custom,module,Magento_AdminGws
+Custom,उपयोगकर्ता,module,Magento_AdminGws
 "Read Details","Read Details",module,Magento_AdminNotification
 "Mark as Read","Mark as Read",module,Magento_AdminNotification
 "Are you sure?","Are you sure?",module,Magento_AdminNotification
