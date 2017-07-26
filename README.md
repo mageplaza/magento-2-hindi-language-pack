@@ -33,10 +33,8 @@ Install the Hindi language pack via composer is never easier.
 **Install Hindi pack**:
 
 ```
-composer require mageplaza/magento-2-hindi-language-pack:dev-master
-php bin/magento cache:clean
+composer require mageplaza/magento-2-hindi-language-pack
 php bin/magento setup:static-content:deploy hi_IN
-php bin/magento indexer:reindex
 php bin/magento cache:clean
 php bin/magento cache:flush
 
@@ -46,8 +44,7 @@ php bin/magento cache:flush
 **Update  Hindi pack**:
 
 ```
-composer update mageplaza/magento-2-hindi-language-pack:dev-master
-php bin/magento cache:clean
+composer update mageplaza/magento-2-hindi-language-pack
 php bin/magento setup:static-content:deploy hi_IN
 php bin/magento indexer:reindex
 php bin/magento cache:clean
