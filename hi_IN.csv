@@ -1,7 +1,7 @@
-"All","सभी ko mera namaskar",module,Magento_AdminGws
+"All","All",module,Magento_AdminGws
 "None","कोई नहीं",module,Magento_AdminGws
-"Allowed Scopes","Allowed Scop",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","%1",module,Magento_AdminGws
+"Allowed Scopes","अनुमति प्राप्त क्षेत्र",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","इस आइटम को संगृह करने के लिए अधिक अनुमतियों की आवश्यकता है ।",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","आप को कुछ अद्यतन नियम लागू करने के लिए अधिक अनुमतियों की आवश्यकता है।",module,Magento_AdminGws
 "This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
 "Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
@@ -59,11 +59,11 @@
 "Close","Close",module,Magento_AdminNotification
 "See All (","See All (",module,Magento_AdminNotification
 "unread)","unread)",module,Magento_AdminNotification
-"Show Toolbar","Show Toolbar",module,Magento_AdminNotification
-"Show List","Show List",module,Magento_AdminNotification
-"Use HTTPS to Get Feed","Use HTTPS to Get Feed",module,Magento_AdminNotification
-"Update Frequency","Update Frequency",module,Magento_AdminNotification
-"Last Update","Last Update",module,Magento_AdminNotification
+"Show Toolbar","उपकरण पट्टी दिखाएं",module,Magento_AdminNotification
+"Show List","सूची दिखाएं",module,Magento_AdminNotification
+"Use HTTPS to Get Feed","फ़ीड प्राप्त करने के लिए HTTPS का उपयोग करें",module,Magento_AdminNotification
+"Update Frequency","अद्यतन आवृत्ति",module,Magento_AdminNotification
+"Last Update","अंतिम अद्यतन",module,Magento_AdminNotification
 "Severity","Severity",module,Magento_AdminNotification
 "Date Added","Date Added",module,Magento_AdminNotification
 "Message","Message",module,Magento_AdminNotification
