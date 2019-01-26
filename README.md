@@ -89,8 +89,11 @@ Unzip the Hindi language pack to Magento 2 root folder. In this guide, we extrac
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/hi_in
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-hindi-language-pack` to `hi_in`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Hindi pack manually, you have to access to your server v
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `hi_IN.zip` into `app/i18n/mageplaza/hi_IN/hi_IN.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/hi_in/hi_IN.csv`
+
+See this screenshot
+
+![Hindi pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
