@@ -1,14 +1,14 @@
 All,सभी,module,Magento_AdminGws
 None,"कोई नहीं",module,Magento_AdminGws
 "Allowed Scopes","अनुमति प्राप्त क्षेत्र",module,Magento_AdminGws
-"More permissions are needed to delete the ""%1"" item.","More permissions are needed to delete the ""%1"" item.",module,Magento_AdminGws
+"More permissions are needed to delete the ""%1"" item.","इस आइटम को संगृह करने के लिए अधिक अनुमतियों की आवश्यकता है ।",module,Magento_AdminGws
 "You need more permissions to apply some of the rule updates.","आप को कुछ अद्यतन नियम लागू करने के लिए अधिक अनुमतियों की आवश्यकता है।",module,Magento_AdminGws
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","This entity needs to be assigned to a store view. Verify the entity assignment and try again.",module,Magento_AdminGws
-"Orders can only be completed in an active store. Verify the store and try again.","Orders can only be completed in an active store. Verify the store and try again.",module,Magento_AdminGws
-"This item needs to be assigned to a store view. Assign item and try again.","This item needs to be assigned to a store view. Assign item and try again.",module,Magento_AdminGws
-"More permissions are needed to save this item.","More permissions are needed to save this item.",module,Magento_AdminGws
-"More permissions are needed to delete this item.","More permissions are needed to delete this item.",module,Magento_AdminGws
-"More permissions are needed to view this item.","More permissions are needed to view this item.",module,Magento_AdminGws
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","इस एंटिटी को किसी स्टोर व्यू में असाइन करने की आवश्यकता है । एंटिटी असाइनमेंट जांचें और पुन: प्रयास करें ।",module,Magento_AdminGws
+"Orders can only be completed in an active store. Verify the store and try again.","आर्डर केवल एक एक्टिव स्टोर में पूरा किया जा सकता है । स्टोर व्यू की जांच करें और पुन: प्रयास करें ।",module,Magento_AdminGws
+"This item needs to be assigned to a store view. Assign item and try again.","इस आइटम को किसी स्टोर व्यू को असाइन करने की आवश्यकता है । आइटम असाइन करें और पुन: प्रयास करे ।",module,Magento_AdminGws
+"More permissions are needed to save this item.","इस आइटम को सेव करने के लिए अधिक अनुमतियों की आवश्यकता है ।",module,Magento_AdminGws
+"More permissions are needed to delete this item.","इस आइटम को डिलीट करने के लिए अधिक अनुमतियों की आवश्यकता है ।",module,Magento_AdminGws
+"More permissions are needed to view this item.","इस आइटम को देखने के लिए अधिक अनुमतियों की आवश्यकता है ।",module,Magento_AdminGws
 "At least one website or store group needs to be selected. Select and try again.","At least one website or store group needs to be selected. Select and try again.",module,Magento_AdminGws
 "More permissions are needed to set All Scopes to a Role.","More permissions are needed to set All Scopes to a Role.",module,Magento_AdminGws
 "The ""%1"" website ID is incorrect. Verify the website ID and try again.","The ""%1"" website ID is incorrect. Verify the website ID and try again.",module,Magento_AdminGws
