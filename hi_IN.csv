@@ -184,7 +184,7 @@
 "SKU number","SKU number",module,Magento_AdvancedCheckout
 "Upload File","Upload File",module,Magento_AdvancedCheckout
 "Your csv file must include ""sku"" and ""qty"" columns.","Your csv file must include ""sku"" and ""qty"" columns.",module,Magento_AdvancedCheckout
-"Reset","Reset",module,Magento_AdvancedCheckout
+"Reset","रीसेट",module,Magento_AdvancedCheckout
 "SKU: ","SKU: ",module,Magento_AdvancedCheckout
 "Only <span id=""%1_max_allowed"">%2</span> in stock","केवल < div class = ""notranslate"" > 0 </div> < div class = ""notranslate"" > 1 </div> < div class = ""notranslate"" > 2 </div> स्टॉक में",module,Magento_AdvancedCheckout
 "Item","Item",module,Magento_AdvancedCheckout
@@ -542,7 +542,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Save Account","Save Account",module,Magento_Backend
 "My Account","My Account",module,Magento_Backend
 "Account Information","Account Information",module,Magento_Backend
-"User Name","User Name",module,Magento_Backend
+"User Name","उपयोगकर्ता नाम",module,Magento_Backend
 "First Name","प्रथम नाम",module,Magento_Backend
 "Last Name","अंतिम नाम",module,Magento_Backend
 "Email","ईमेल",module,Magento_Backend
@@ -622,7 +622,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Create Store","Create Store",module,Magento_Backend
 "Create Store View","Create Store View",module,Magento_Backend
 "Home","Home",module,Magento_Backend
-"Reset","Reset",module,Magento_Backend
+"Reset","रीसेट",module,Magento_Backend
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Backend
 "Add New Image","Add New Image",module,Magento_Backend
 "Export block for grid %1 is not defined","Export block for grid %1 is not defined",module,Magento_Backend
@@ -720,7 +720,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Authentication error occurred.","Authentication error occurred.",module,Magento_Backend
 "Admin session lifetime must be less than or equal to 31536000 seconds (one year)","व्यवस्थापक सत्र जीवनकाल से कम या बराबर ३१५३६००० सेकंड (एक वर्ष) होना चाहिए",module,Magento_Backend
 "Admin session lifetime must be greater than or equal to 60 seconds","व्यवस्थापक सत्र जीवनकाल ६० सेकंड से अधिक या बराबर होना चाहिए",module,Magento_Backend
-"Order","Order",module,Magento_Backend
+"Order","ऑर्डर",module,Magento_Backend
 "Order #%1","Order #%1",module,Magento_Backend
 "Sorry, you need permissions to view this content.","Sorry, you need permissions to view this content.",module,Magento_Backend
 "Next steps","Next steps",module,Magento_Backend
@@ -732,8 +732,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 ".",".",module,Magento_Backend
 "javascript:history.back()","javascript:history.back()",module,Magento_Backend
 "Welcome, please sign in","Welcome, please sign in",module,Magento_Backend
-"Username","Username",module,Magento_Backend
-"user name","user name",module,Magento_Backend
+"Username","उपयोगकर्ता नाम",module,Magento_Backend
+"user name","उपयोगकर्ता नाम",module,Magento_Backend
 "Password","पासवर्ड",module,Magento_Backend
 "password","पासवर्ड",module,Magento_Backend
 "Sign in","Sign in",module,Magento_Backend
@@ -809,7 +809,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Allow everything","Allow everything",module,Magento_Backend
 "Magento Admin","Magento Admin",module,Magento_Backend
 "Global Search","Global Search",module,Magento_Backend
-"Marketing","Marketing",module,Magento_Backend
+"Marketing","विपणन",module,Magento_Backend
 "SEO & Search","SEO & Search",module,Magento_Backend
 "User Content","User Content",module,Magento_Backend
 "Content","Content",module,Magento_Backend
@@ -1202,7 +1202,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Delete Dynamic Block","Delete Dynamic Block",module,Magento_Banner
 "New Dynamic Block","New Dynamic Block",module,Magento_Banner
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Banner
-"Reset","Reset",module,Magento_Banner
+"Reset","रीसेट",module,Magento_Banner
 "Save","सहेजें",module,Magento_Banner
 "Dynamic Block Default Content for All Store Views","Dynamic Block Default Content for All Store Views",module,Magento_Banner
 "Dynamic Block Properties","Dynamic Block Properties",module,Magento_Banner
@@ -1395,7 +1395,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Error executing PayPal order.","Error executing PayPal order.",module,Magento_Braintree
 "Error executing PayPal billing agreement.","Error executing PayPal billing agreement.",module,Magento_Braintree
 "Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.","Apply filters in order to get results. Only first 100 records will be displayed in the grid, you will be able to download full version of the report in .csv format.",module,Magento_Braintree
-"Select...","Select...",module,Magento_Braintree
+"Select...","चयन...",module,Magento_Braintree
 "Status","स्थिति",module,Magento_Braintree
 "Transaction Type","Transaction Type",module,Magento_Braintree
 "Payment Type","Payment Type",module,Magento_Braintree
@@ -1643,11 +1643,11 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Qty Shipped","Qty Shipped",module,Magento_Bundle
 "Add Products to New Option","Add Products to New Option",module,Magento_Bundle
 "Add Products to Option ""%1""","Add Products to Option ""%1""",module,Magento_Bundle
-"Select...","Select...",module,Magento_Bundle
+"Select...","चयन...",module,Magento_Bundle
 "Status","स्थिति",module,Magento_Bundle
 "Thumbnail","Thumbnail",module,Magento_Bundle
 "Type","Type",module,Magento_Bundle
-"Special Price","Special Price",module,Magento_Bundle
+"Special Price","विशेष मूल्य",module,Magento_Bundle
 "This is implemented for bundle products only.","This is implemented for bundle products only.",module,Magento_Bundle
 "The product with the ""%1"" SKU isn't a bundle product.","The product with the ""%1"" SKU isn't a bundle product.",module,Magento_Bundle
 "The bundle product can't contain another composite product.","The bundle product can't contain another composite product.",module,Magento_Bundle
@@ -1664,7 +1664,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Cancel","रद्द करें",module,Magento_BundleStaging
 "Add Selected Products","Add Selected Products",module,Magento_BundleStaging
 "Add Products to Option","Add Products to Option",module,Magento_BundleStaging
-"Select...","Select...",module,Magento_BundleStaging
+"Select...","चयन...",module,Magento_BundleStaging
 "Status","स्थिति",module,Magento_BundleStaging
 "ID","आईडी",module,Magento_BundleStaging
 "Thumbnail","Thumbnail",module,Magento_BundleStaging
@@ -1751,7 +1751,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Store View","स्टोर दृश्य",module,Magento_Catalog
 "Website","वेबसाइट",module,Magento_Catalog
 "Global","Global",module,Magento_Catalog
-"Scope","Scope",module,Magento_Catalog
+"Scope","क्षेत्र",module,Magento_Catalog
 "Declare attribute value saving scope.","Declare attribute value saving scope.",module,Magento_Catalog
 "Storefront Properties","Storefront Properties",module,Magento_Catalog
 "Use in Search","Use in Search",module,Magento_Catalog
@@ -1787,7 +1787,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Delete Selected Group","Delete Selected Group",module,Magento_Catalog
 "Add New","Add New",module,Magento_Catalog
 "Back","पीछे	",module,Magento_Catalog
-"Reset","Reset",module,Magento_Catalog
+"Reset","रीसेट",module,Magento_Catalog
 "You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
 "New Set Name","New Set Name",module,Magento_Catalog
 "Edit Attribute Set '%1'","Edit Attribute Set '%1'",module,Magento_Catalog
@@ -2148,7 +2148,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Lock wait timeout","Lock wait timeout",module,Magento_Catalog
 "123","123",module,Magento_Catalog
 "Images","Images",module,Magento_Catalog
-"Select...","Select...",module,Magento_Catalog
+"Select...","चयन...",module,Magento_Catalog
 "Advanced Pricing","Advanced Pricing",module,Magento_Catalog
 "Customer Group Price","Customer Group Price",module,Magento_Catalog
 "Customer Group","Customer Group",module,Magento_Catalog
@@ -2281,7 +2281,7 @@ and the product descriptor can be up to 18, 14, or 9 characters respectively (wi
 "Unselect All","Unselect All",module,Magento_Catalog
 "Select Visible","Select Visible",module,Magento_Catalog
 "Unselect Visible","Unselect Visible",module,Magento_Catalog
-"Special Price","Special Price",module,Magento_Catalog
+"Special Price","विशेष मूल्य",module,Magento_Catalog
 "Regular Price","नियमित मूल्य",module,Magento_Catalog
 "Buy %1 for: ","Buy %1 for: ",module,Magento_Catalog
 "Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>","Buy %1 for %2 each and <strong class=""benefit"">save<span class=""percent tier-%3"">&nbsp;%4</span>%</strong>",module,Magento_Catalog
@@ -2883,7 +2883,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Indexed permissions for products","Indexed permissions for products",module,Magento_CatalogPermissions
 "Delete Rule","Delete Rule",module,Magento_CatalogRule
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CatalogRule
-"Reset","Reset",module,Magento_CatalogRule
+"Reset","रीसेट",module,Magento_CatalogRule
 "Save and Apply","Save and Apply",module,Magento_CatalogRule
 "Save and Continue Edit","सहेजें और संपादित करना जारी रखें",module,Magento_CatalogRule
 "Save","सहेजें",module,Magento_CatalogRule
@@ -3165,11 +3165,11 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The ""%1"" attribute is required. Enter and try again.","The ""%1"" attribute is required. Enter and try again.",module,Magento_CatalogStaging
 "Future Update already exists in this time range. Set a different range and try again.","Future Update already exists in this time range. Set a different range and try again.",module,Magento_CatalogStaging
 "The product was unable to be saved. Please try again.","The product was unable to be saved. Please try again.",module,Magento_CatalogStaging
-"Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
-"Invalid URL key","Invalid URL key",module,Magento_CatalogUrlRewrite
-"Category URL Suffix","Category URL Suffix",module,Magento_CatalogUrlRewrite
-"You need to refresh the cache.","You need to refresh the cache.",module,Magento_CatalogUrlRewrite
-"Product URL Suffix","Product URL Suffix",module,Magento_CatalogUrlRewrite
+"Create Permanent Redirect for old URL","पुराने URL के लिए स्थायी अनुप्रेषित बनाएँ",module,Magento_CatalogUrlRewrite
+"Invalid URL key","अमान्य URL कुंजी",module,Magento_CatalogUrlRewrite
+"Category URL Suffix","श्रेणी URL प्रत्यय",module,Magento_CatalogUrlRewrite
+"You need to refresh the cache.","आपको कैश ताज़ा करने की आवश्यकता है ।",module,Magento_CatalogUrlRewrite
+"Product URL Suffix","उत्पाद यूआरएल प्रत्यय",module,Magento_CatalogUrlRewrite
 "Use Categories Path for Product URLs","Use Categories Path for Product URLs",module,Magento_CatalogUrlRewrite
 "Create Permanent Redirect for URLs if URL Key Changed","Create Permanent Redirect for URLs if URL Key Changed",module,Magento_CatalogUrlRewrite
 "Conditions Combination","Conditions Combination",module,Magento_CatalogWidget
@@ -3728,7 +3728,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Delete Customer","Delete Customer",module,Magento_Company
 "Back","पीछे	",module,Magento_Company
 "Delete Company","Delete Company",module,Magento_Company
-"Reset","Reset",module,Magento_Company
+"Reset","रीसेट",module,Magento_Company
 "Save","सहेजें",module,Magento_Company
 "Save & Close","Save & Close",module,Magento_Company
 "Companies","Companies",module,Magento_Company
@@ -4096,22 +4096,22 @@ for the following reason:",module,Magento_Company
 "%fieldName is a required field","%fieldName is a required field",module,Magento_Company
 "Consumer is not authorized to access resource","Consumer is not authorized to access resource",module,Magento_Company
 "Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.","Your company account is blocked and you cannot place orders. If you have questions, please contact your company administrator.",module,Magento_Company
-"Reimburse Balance","Reimburse Balance",module,Magento_CompanyCredit
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.",module,Magento_CompanyCredit
-"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.",module,Magento_CompanyCredit
+"Reimburse Balance","प्रतिपूर्ति शेष",module,Magento_CompanyCredit
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company is not active.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि कंपनी सक्रिय नहीं है ।",module,Magento_CompanyCredit
+"Are you sure you want to cancel this order? The order amount will not be reverted to %1 because the company associated with this customer does not exist.","क्या आप निश्चयपूर्वक इस आदेश को रद्द करना चाहते हैं? आदेश राशि %1 वापस नहीं किया जाएगा क्योंकि इस ग्राहक के साथ संबद्ध कंपनी मौजूद नहीं है ।",module,Magento_CompanyCredit
 "Page not found.","पृष्ठ नहीं मिला ।",module,Magento_CompanyCredit
 "Something went wrong. Please try again later.","Something went wrong. Please try again later.",module,Magento_CompanyCredit
-"History record no longer exists.","History record no longer exists.",module,Magento_CompanyCredit
+"History record no longer exists.","इतिहास रिकॉर्ड अब मौजूद नहीं है ।",module,Magento_CompanyCredit
 "Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.","Unable to retrieve currency rates at this moment. Please try again later or contact store administrator.",module,Magento_CompanyCredit
 "A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_CompanyCredit
 "Unable to convert company credit. Please try again later or contact store administrator.","Unable to convert company credit. Please try again later or contact store administrator.",module,Magento_CompanyCredit
-"Company Credit","Company Credit",module,Magento_CompanyCredit
+"Company Credit","कंपनी क्रेडिट",module,Magento_CompanyCredit
 "Order Payment should be provided","Order Payment should be provided",module,Magento_CompanyCredit
 "Order is canceled. We reverted %1 to the company credit.","Order is canceled. We reverted %1 to the company credit.",module,Magento_CompanyCredit
 "Order is canceled. The order amount is not reverted to the company credit.","Order is canceled. The order amount is not reverted to the company credit.",module,Magento_CompanyCredit
 "Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.","Order is cancelled. The order amount is not reverted to the company credit because the company to which this customer belongs does not exist.",module,Magento_CompanyCredit
-"unavailable.","unavailable.",module,Magento_CompanyCredit
-"We can't save the credit memo because the company associated with this customer does not exist.","We can't save the credit memo because the company associated with this customer does not exist.",module,Magento_CompanyCredit
+"unavailable.","अनुपलब्ध है।",module,Magento_CompanyCredit
+"We can't save the credit memo because the company associated with this customer does not exist.","हम क्रेडिट मेमो को सहेज नहीं सकते क्योंकि इस ग्राहक से संबद्ध कंपनी मौजूद नहीं है ।",module,Magento_CompanyCredit
 "We can't save the credit memo because the company associated with customer is not active.","We can't save the credit memo because the company associated with customer is not active.",module,Magento_CompanyCredit
 "Yes","हाँ",module,Magento_CompanyCredit
 "No","नहीं",module,Magento_CompanyCredit
@@ -4124,11 +4124,11 @@ for the following reason:",module,Magento_Company
 "Could not update history","Could not update history",module,Magento_CompanyCredit
 "Requested company is not found. Row ID: %fieldName = %fieldValue.","Requested company is not found. Row ID: %fieldName = %fieldValue.",module,Magento_CompanyCredit
 "Cannot delete credit limit with id %1","Cannot delete credit limit with id %1",module,Magento_CompanyCredit
-"Allocated","Allocated",module,Magento_CompanyCredit
+"Allocated","आवंटित",module,Magento_CompanyCredit
 "Updated","अद्यतन",module,Magento_CompanyCredit
 "Purchased","खरीद",module,Magento_CompanyCredit
-"Reimbursed","Reimbursed",module,Magento_CompanyCredit
-"Refunded","Refunded",module,Magento_CompanyCredit
+"Reimbursed","प्रतिपूर्ति",module,Magento_CompanyCredit
+"Refunded","वापस",module,Magento_CompanyCredit
 "Reverted","Reverted",module,Magento_CompanyCredit
 "Could not save history","Could not save history",module,Magento_CompanyCredit
 "Cannot delete history with id %1","Cannot delete history with id %1",module,Magento_CompanyCredit
@@ -4146,9 +4146,9 @@ Customers will not be able to place orders until you update the credit currency.
 "We refunded %1 online.","We refunded %1 online.",module,Magento_CompanyCredit
 "We refunded %1 offline.","We refunded %1 offline.",module,Magento_CompanyCredit
 "We refunded %1 to the company credit.","We refunded %1 to the company credit.",module,Magento_CompanyCredit
-"Exception message.","Exception message.",module,Magento_CompanyCredit
-"Exception Message","Exception Message",module,Magento_CompanyCredit
-"No such entity","No such entity",module,Magento_CompanyCredit
+"Exception message.","अपवाद संदेश।",module,Magento_CompanyCredit
+"Exception Message","अपवाद संदेश।",module,Magento_CompanyCredit
+"No such entity","ऐसी कोई इकाई नहीं",module,Magento_CompanyCredit
 "Edit","संपादित करें",module,Magento_CompanyCredit
 "%1 made an update. %2 can exceed the Credit Limit.","%1 made an update. %2 can exceed the Credit Limit.",module,Magento_CompanyCredit
 "%1 made an update. %2 cannot exceed the Credit Limit.","%1 made an update. %2 cannot exceed the Credit Limit.",module,Magento_CompanyCredit
@@ -4169,7 +4169,7 @@ Customers will not be able to place orders until you update the credit currency.
 "Charged off the company credit","Charged off the company credit",module,Magento_CompanyCredit
 "The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.","The Company credit on all selected companies will be converted using the rate below. This operation cannot be undone.",module,Magento_CompanyCredit
 "Credit allocated to %company_name","Credit allocated to %company_name",module,Magento_CompanyCredit
-"Dear %name,","Dear %name,",module,Magento_CompanyCredit
+"Dear %name,","प्रिय %name,",module,Magento_CompanyCredit
 "Your company has been allocated a credit of %available_credit.,module,Magento_CompanyCredit
 You can now use the Payment On Account method to place you orders.","Your company has been allocated a credit of %available_credit.,module,Magento_CompanyCredit
 You can now use the Payment On Account method to place you orders.",module,Magento_CompanyCredit
@@ -4181,26 +4181,26 @@ You can now use the Payment On Account method to place you orders.",module,Magen
 "Your credit limit has been updated and is now %available_credit.,module,Magento_CompanyCredit
 Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.","Your credit limit has been updated and is now %available_credit.,module,Magento_CompanyCredit
 Your outstanding balance currently totals %outstanding_balance. You are %exceed_limit to exceed the credit limit.",module,Magento_CompanyCredit
-"Order %order_id refunded","Order %order_id refunded",module,Magento_CompanyCredit
+"Order %order_id refunded","ऑर्डर %order_id वापस कर दिया गया",module,Magento_CompanyCredit
 "A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.","A refund of %refunded_amount has been issued on order #%order_id. This amount has been applied to the company credit.",module,Magento_CompanyCredit
-"Order %order_id reverted","Order %order_id reverted",module,Magento_CompanyCredit
+"Order %order_id reverted","ऑर्डर %order_id वापस आ गया",module,Magento_CompanyCredit
 "Your order #%order_id has been cancelled. The order amount reverted to the company credit.","Your order #%order_id has been cancelled. The order amount reverted to the company credit.",module,Magento_CompanyCredit
 "Available Credit ","Available Credit ",module,Magento_CompanyCredit
 "The Payment on Account method is not available in the selected currency. Please contact the seller.","The Payment on Account method is not available in the selected currency. Please contact the seller.",module,Magento_CompanyCredit
 "Company credit account will be charged: ","Company credit account will be charged: ",module,Magento_CompanyCredit
 "Place Order","स्थान क्रम",module,Magento_CompanyCredit
-"Cancel the Order","Cancel the Order",module,Magento_CompanyCredit
+"Cancel the Order","ऑर्डर रद्द करें",module,Magento_CompanyCredit
 "This is a required field.","This is a required field.",module,Magento_CompanyCredit
 "Please enter a valid number in this field.","Please enter a valid number in this field.",module,Magento_CompanyCredit
 "{oldCur}/{newCur} Rate","{oldCur}/{newCur} Rate",module,Magento_CompanyCredit
-"Reimburse","Reimburse",module,Magento_CompanyCredit
+"Reimburse","प्रतिपूर्ति",module,Magento_CompanyCredit
 "Save","सहेजें",module,Magento_CompanyCredit
 "Please use only letters (a-z or A-Z), numbers (0-9), dash (-) or slash (/) in this field.","Please use only letters (a-z or A-Z), numbers (0-9), dash (-) or slash (/) in this field.",module,Magento_CompanyCredit
 "The credit limit for %s is %s. It will be exceeded by %s with this order.","The credit limit for %s is %s. It will be exceeded by %s with this order.",module,Magento_CompanyCredit
 "Payment on Account","Payment on Account",module,Magento_CompanyCredit
 "Enabled","सक्षम",module,Magento_CompanyCredit
 "New Order Status","New Order Status",module,Magento_CompanyCredit
-"Sort Order","Sort Order",module,Magento_CompanyCredit
+"Sort Order","सॉर्ट क्रम",module,Magento_CompanyCredit
 "Title","शीर्षक",module,Magento_CompanyCredit
 "Payment from Applicable Countries","Payment from Applicable Countries",module,Magento_CompanyCredit
 "Payment from Specific Countries","Payment from Specific Countries",module,Magento_CompanyCredit
@@ -4208,7 +4208,7 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Maximum Order Total","Maximum Order Total",module,Magento_CompanyCredit
 "Company Credit Change Email Sender","Company Credit Change Email Sender",module,Magento_CompanyCredit
 "Send Company Credit Change Email Copy To","Send Company Credit Change Email Copy To",module,Magento_CompanyCredit
-"Comma-separated","Comma-separated",module,Magento_CompanyCredit
+"Comma-separated","अल्पविराम से अलग",module,Magento_CompanyCredit
 "Send Email Copy Method","Send Email Copy Method",module,Magento_CompanyCredit
 "Allocated Email Template","Allocated Email Template",module,Magento_CompanyCredit
 "This email is sent to the Company Admin.","This email is sent to the Company Admin.",module,Magento_CompanyCredit
@@ -4216,10 +4216,10 @@ Your outstanding balance currently totals %outstanding_balance. You are %exceed_
 "Reimbursed Email Template","Reimbursed Email Template",module,Magento_CompanyCredit
 "Refunded Email Template","Refunded Email Template",module,Magento_CompanyCredit
 "Reverted Email Template","Reverted Email Template",module,Magento_CompanyCredit
-"View","View",module,Magento_CompanyCredit
-"Credit Currency","Credit Currency",module,Magento_CompanyCredit
-"Allow To Exceed Credit Limit","Allow To Exceed Credit Limit",module,Magento_CompanyCredit
-"Reason For Change","Reason For Change",module,Magento_CompanyCredit
+"View","देखें",module,Magento_CompanyCredit
+"Credit Currency","ऋण मुद्रा",module,Magento_CompanyCredit
+"Allow To Exceed Credit Limit","क्रेडिट सीमा से अधिक की अनुमति दें",module,Magento_CompanyCredit
+"Reason For Change","परिवर्तन का कारण",module,Magento_CompanyCredit
 "Amount","राशि",module,Magento_CompanyCredit
 ",module,Magento_CompanyCredit
 Limit one PO number per reimburse transaction,module,Magento_CompanyCredit
@@ -4231,9 +4231,9 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 ",",module,Magento_CompanyCredit
 Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 ",module,Magento_CompanyCredit
-"Comment","Comment",module,Magento_CompanyCredit
-"Rate","Rate",module,Magento_CompanyCredit
-"Convert Credit","Convert Credit",module,Magento_CompanyCredit
+"Comment","टिप्पणी",module,Magento_CompanyCredit
+"Rate","दर",module,Magento_CompanyCredit
+"Convert Credit","कन्वर्ट क्रेडिट",module,Magento_CompanyCredit
 "Date","दिनांक",module,Magento_CompanyCredit
 "Operation","Operation",module,Magento_CompanyCredit
 "Updated By","Updated By",module,Magento_CompanyCredit
@@ -4479,7 +4479,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "{width}^{height} px","{width}^{height} px",module,Magento_ConfigurableProduct
 "Hide from Product Page","Hide from Product Page",module,Magento_ConfigurableProduct
 "Select attribute","Select attribute",module,Magento_ConfigurableProduct
-"Select","Select",module,Magento_ConfigurableProduct
+"Select","चयन",module,Magento_ConfigurableProduct
 "Apply single price to all SKUs","Apply single price to all SKUs",module,Magento_ConfigurableProduct
 "Apply unique prices by attribute to each SKU","Apply unique prices by attribute to each SKU",module,Magento_ConfigurableProduct
 "Skip price at this time","Skip price at this time",module,Magento_ConfigurableProduct
@@ -4527,7 +4527,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Buy %1 for %2 each and","Buy %1 for %2 each and",module,Magento_ConfigurableProduct
 "save","save",module,Magento_ConfigurableProduct
 "Configurable Product Image","Configurable Product Image",module,Magento_ConfigurableProduct
-"Select...","Select...",module,Magento_ConfigurableProduct
+"Select...","चयन...",module,Magento_ConfigurableProduct
 "ID","आईडी",module,Magento_ConfigurableProduct
 "Thumbnail","Thumbnail",module,Magento_ConfigurableProduct
 "Attribute Code","Attribute Code",module,Magento_ConfigurableProduct
@@ -4535,7 +4535,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Required","आवश्यक",module,Magento_ConfigurableProduct
 "System","सिस्‍टम",module,Magento_ConfigurableProduct
 "Visible","Visible",module,Magento_ConfigurableProduct
-"Scope","Scope",module,Magento_ConfigurableProduct
+"Scope","क्षेत्र",module,Magento_ConfigurableProduct
 "Searchable","Searchable",module,Magento_ConfigurableProduct
 "Comparable","Comparable",module,Magento_ConfigurableProduct
 "As low as: ","As low as: ",module,Magento_ConfigurableProduct
@@ -4559,7 +4559,7 @@ new products will be created. Use this step to customize images and price for yo
 "Please, select image(s) for your attribute","Please, select image(s) for your attribute",module,Magento_ConfigurableProduct
 "Please choose image(s)","Please choose image(s)",module,Magento_ConfigurableProduct
 "Please, select attribute(s)","Please, select attribute(s)",module,Magento_ConfigurableProduct
-"Special Price","Special Price",module,Magento_ConfigurableProduct
+"Special Price","विशेष मूल्य",module,Magento_ConfigurableProduct
 "The product is already attached.","The product is already attached.",module,Magento_ConfigurableProduct
 "The parent product doesn't have configurable product options.","The parent product doesn't have configurable product options.",module,Magento_ConfigurableProduct
 "The child product doesn't have the ""%1"" attribute value. Verify the value and try again.","The child product doesn't have the ""%1"" attribute value. Verify the value and try again.",module,Magento_ConfigurableProduct
@@ -4573,7 +4573,7 @@ new products will be created. Use this step to customize images and price for yo
 "Contribution must have attributes specified. Enter attributes and try again.","Contribution must have attributes specified. Enter attributes and try again.",module,Magento_ConfigurableProduct
 "Configurable product ""%1"" does not have sub-products","Configurable product ""%1"" does not have sub-products",module,Magento_ConfigurableProduct
 "Save","सहेजें",module,Magento_ConfigurableProductStaging
-"Select...","Select...",module,Magento_ConfigurableProductStaging
+"Select...","चयन...",module,Magento_ConfigurableProductStaging
 "Status","स्थिति",module,Magento_ConfigurableProductStaging
 "ID","आईडी",module,Magento_ConfigurableProductStaging
 "Thumbnail","Thumbnail",module,Magento_ConfigurableProductStaging
@@ -4588,7 +4588,7 @@ new products will be created. Use this step to customize images and price for yo
 "Required","आवश्यक",module,Magento_ConfigurableProductStaging
 "System","सिस्‍टम",module,Magento_ConfigurableProductStaging
 "Visible","Visible",module,Magento_ConfigurableProductStaging
-"Scope","Scope",module,Magento_ConfigurableProductStaging
+"Scope","क्षेत्र",module,Magento_ConfigurableProductStaging
 "Searchable","Searchable",module,Magento_ConfigurableProductStaging
 "Comparable","Comparable",module,Magento_ConfigurableProductStaging
 "Page not found.","पृष्ठ नहीं मिला ।",module,Magento_Contact
@@ -4666,7 +4666,7 @@ new products will be created. Use this step to customize images and price for yo
 "For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.",module,Magento_Cron
 "Save Currency Rates","Save Currency Rates",module,Magento_CurrencySymbol
 "Options","Options",module,Magento_CurrencySymbol
-"Reset","Reset",module,Magento_CurrencySymbol
+"Reset","रीसेट",module,Magento_CurrencySymbol
 "Import","आयात",module,Magento_CurrencySymbol
 "Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
 "Import Service","Import Service",module,Magento_CurrencySymbol
@@ -4738,7 +4738,7 @@ new products will be created. Use this step to customize images and price for yo
 "Save and Continue Edit","सहेजें और संपादित करना जारी रखें",module,Magento_Customer
 "Back","पीछे	",module,Magento_Customer
 "Please select","कृपया चुने",module,Magento_Customer
-"Reset","Reset",module,Magento_Customer
+"Reset","रीसेट",module,Magento_Customer
 "ID","आईडी",module,Magento_Customer
 "Product","उत्पाद",module,Magento_Customer
 "SKU","SKU",module,Magento_Customer
@@ -4767,7 +4767,7 @@ new products will be created. Use this step to customize images and price for yo
 "Paused","Paused",module,Magento_Customer
 "View","View",module,Magento_Customer
 "Unknown","Unknown",module,Magento_Customer
-"Order","Order",module,Magento_Customer
+"Order","ऑर्डर",module,Magento_Customer
 "Purchased","खरीद",module,Magento_Customer
 "Bill-to Name","Bill-to Name",module,Magento_Customer
 "Ship-to Name","Ship-to Name",module,Magento_Customer
@@ -4998,7 +4998,7 @@ new products will be created. Use this step to customize images and price for yo
 "region is a required field.","region is a required field.",module,Magento_Customer
 "regionId is a required field.","regionId is a required field.",module,Magento_Customer
 "Label","लेबल",module,Magento_Customer
-"Select...","Select...",module,Magento_Customer
+"Select...","चयन...",module,Magento_Customer
 "Edit","संपादित करें",module,Magento_Customer
 "Visitor","Visitor",module,Magento_Customer
 "Customer","ग्राहक",module,Magento_Customer
@@ -5889,9 +5889,9 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Centimeters","Centimeters",module,Magento_Dhl
 "inch","inch",module,Magento_Dhl
 "cm","cm",module,Magento_Dhl
-"Height","Height",module,Magento_Dhl
-"Depth","Depth",module,Magento_Dhl
-"Width","Width",module,Magento_Dhl
+"Height","ऊँचाई",module,Magento_Dhl
+"Depth","गहराई",module,Magento_Dhl
+"Width","चौड़ाई",module,Magento_Dhl
 "Regular","Regular",module,Magento_Dhl
 "Specific","Specific",module,Magento_Dhl
 "Easy shop","Easy shop",module,Magento_Dhl
@@ -5908,7 +5908,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Economy select","Economy select",module,Magento_Dhl
 "Domestic express 9:00","Domestic express 9:00",module,Magento_Dhl
 "Domestic express","Domestic express",module,Magento_Dhl
-"Others","Others",module,Magento_Dhl
+"Others","अन्य",module,Magento_Dhl
 "Globalmail business","Globalmail business",module,Magento_Dhl
 "Same day","Same day",module,Magento_Dhl
 "Express 12:00","Express 12:00",module,Magento_Dhl
@@ -5926,7 +5926,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Cannot identify weight unit for %1","Cannot identify weight unit for %1",module,Magento_Dhl
 "There is no items in this order","There is no items in this order",module,Magento_Dhl
 "Please specify origin country.","Please specify origin country.",module,Magento_Dhl
-"Documents","Documents",module,Magento_Dhl
+"Documents","दस्तावेज़",module,Magento_Dhl
 "Non Documents","Non Documents",module,Magento_Dhl
 "Height, width and length should be equal or greater than %1","Height, width and length should be equal or greater than %1",module,Magento_Dhl
 "Wrong Region","Wrong Region",module,Magento_Dhl
@@ -5939,7 +5939,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "None","कोई नहीं",module,Magento_Dhl
 "Security validation of XML document has been failed.","Security validation of XML document has been failed.",module,Magento_Dhl
 "The response is in the wrong format","The response is in the wrong format",module,Magento_Dhl
-"Field ","Field ",module,Magento_Dhl
+"Field ","क्षेत्र ",module,Magento_Dhl
 " is required."," is required.",module,Magento_Dhl
 "Enabled for Checkout","Enabled for Checkout",module,Magento_Dhl
 "Gateway URL","Gateway URL",module,Magento_Dhl
@@ -6393,7 +6393,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Elasticsearch HTTP Username","Elasticsearch HTTP Username",module,Magento_Elasticsearch
 "Elasticsearch HTTP Password","Elasticsearch HTTP Password",module,Magento_Elasticsearch
 "Elasticsearch Server Timeout","Elasticsearch Server Timeout",module,Magento_Elasticsearch
-"Test Connection","Test Connection",module,Magento_Elasticsearch
+"Test Connection","परीक्षण कनेक्शन",module,Magento_Elasticsearch
 "We were unable to perform the search because of a search engine misconfiguration.","We were unable to perform the search because of a search engine misconfiguration.",module,Magento_Elasticsearch
 "The search failed because of a search engine misconfiguration.","The search failed because of a search engine misconfiguration.",module,Magento_Elasticsearch6
 "Elasticsearch Server Hostname","Elasticsearch Server Hostname",module,Magento_Elasticsearch6
@@ -6407,7 +6407,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Add New Template","Add New Template",module,Magento_Email
 "Transactional Emails","Transactional Emails",module,Magento_Email
 "Back","पीछे	",module,Magento_Email
-"Reset","Reset",module,Magento_Email
+"Reset","रीसेट",module,Magento_Email
 "Delete Template","Delete Template",module,Magento_Email
 "Convert to Plain Text","Convert to Plain Text",module,Magento_Email
 "Return Html Version","Return Html Version",module,Magento_Email
@@ -7256,7 +7256,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Gift Registry Sharing","Gift Registry Sharing",module,Magento_GiftRegistry
 "Maximum Sent Emails Threshold","Maximum Sent Emails Threshold",module,Magento_GiftRegistry
 "Gift Registry Update","Gift Registry Update",module,Magento_GiftRegistry
-"Select","Select",module,Magento_GiftRegistry
+"Select","चयन",module,Magento_GiftRegistry
 "Date","दिनांक",module,Magento_GiftRegistry
 "Event Region Id","Event Region Id",module,Magento_GiftRegistry
 "Event Region Text","Event Region Text",module,Magento_GiftRegistry
@@ -7435,25 +7435,25 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "In stock","स्टॉक में",module,Magento_GroupedProduct
 "Grouped product items","Grouped product items",module,Magento_GroupedProduct
 "Grouped Product Image","Grouped Product Image",module,Magento_GroupedProduct
-"Select...","Select...",module,Magento_GroupedProduct
+"Select...","चयन...",module,Magento_GroupedProduct
 "Type","Type",module,Magento_GroupedProduct
 "Quantity","मात्रा",module,Magento_GroupedProduct
 "AttributeSetText","AttributeSetText",module,Magento_GroupedProduct
 "StatusText","StatusText",module,Magento_GroupedProduct
 "Position","Position",module,Magento_GroupedProduct
-"""model"" value should be specified","""model"" value should be specified",module,Magento_GroupedProductGraphQl
-"Select...","Select...",module,Magento_GroupedProductStaging
+"""model"" value should be specified","""मॉडल"" मान निर्दिष्ट किया जाना चाहिए",module,Magento_GroupedProductGraphQl
+"Select...","चयन...",module,Magento_GroupedProductStaging
 "Status","स्थिति",module,Magento_GroupedProductStaging
 "ID","आईडी",module,Magento_GroupedProductStaging
-"Thumbnail","Thumbnail",module,Magento_GroupedProductStaging
+"Thumbnail","थंबनेल",module,Magento_GroupedProductStaging
 "Name","नाम",module,Magento_GroupedProductStaging
-"Type","Type",module,Magento_GroupedProductStaging
+"Type","प्रकार",module,Magento_GroupedProductStaging
 "SKU","SKU",module,Magento_GroupedProductStaging
 "Quantity","मात्रा",module,Magento_GroupedProductStaging
 "Price","मूल्य",module,Magento_GroupedProductStaging
-"Attribute Set","Attribute Set",module,Magento_GroupedProductStaging
-"AttributeSetText","AttributeSetText",module,Magento_GroupedProductStaging
-"StatusText","StatusText",module,Magento_GroupedProductStaging
+"Attribute Set","विशेषता सेट",module,Magento_GroupedProductStaging
+"AttributeSetText","विशेषता सेट पाठ",module,Magento_GroupedProductStaging
+"StatusText","स्थिति पाठ",module,Magento_GroupedProductStaging
 "Export","निर्यात",module,Magento_ImportExport
 "Export Settings","Export Settings",module,Magento_ImportExport
 "Entity Type","Entity Type",module,Magento_ImportExport
@@ -7704,7 +7704,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "This customer has no tokens.","This customer has no tokens.",module,Magento_Integration
 "Inactive","Inactive",module,Magento_Integration
 "Active","Active",module,Magento_Integration
-"Reset","Reset",module,Magento_Integration
+"Reset","रीसेट",module,Magento_Integration
 "Integration with name '%1' exists.","Integration with name '%1' exists.",module,Magento_Integration
 "Integration with ID '%1' does not exist.","Integration with ID '%1' does not exist.",module,Magento_Integration
 "One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.","One or more <a href=""%1"">integrations</a> have been reset because of a change to their xml configs.",module,Magento_Integration
@@ -7811,7 +7811,7 @@ e.g. var/export, var/import, var/export/some/dir",module,Magento_ImportExport
 "Message","संदेश ",module,Magento_Invitation
 "Send From","Send From",module,Magento_Invitation
 "Invitee Group","Invitee Group",module,Magento_Invitation
-"Reset","Reset",module,Magento_Invitation
+"Reset","रीसेट",module,Magento_Invitation
 "Save","सहेजें",module,Magento_Invitation
 "View Invitation for %1 (ID: %2)","View Invitation for %1 (ID: %2)",module,Magento_Invitation
 "Back","पीछे	",module,Magento_Invitation
@@ -8121,7 +8121,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Action Group","Action Group",module,Magento_Logging
 "Action","कार्य",module,Magento_Logging
 "IP Address","IP Address",module,Magento_Logging
-"Username","Username",module,Magento_Logging
+"Username","उपयोगकर्ता नाम",module,Magento_Logging
 "Result","Result",module,Magento_Logging
 "Full Action Name","Full Action Name",module,Magento_Logging
 "Details","Details",module,Magento_Logging
@@ -8883,17 +8883,17 @@ You can set a new expiration date if you wish.",module,Magento_NegotiableQuote
 "Quote Total","Quote Total",module,Magento_NegotiableQuote
 "%fieldName is a required field.","%fieldName is a required field.",module,Magento_NegotiableQuote
 "Exception occurred during quote view %s","Exception occurred during quote view %s",module,Magento_NegotiableQuote
-"No such public catalog entity","No such public catalog entity",module,Magento_NegotiableQuoteSharedCatalog
-"The product that was requested doesn't exist. Verify the product and try again.","The product that was requested doesn't exist. Verify the product and try again.",module,Magento_NegotiableQuoteSharedCatalog
-"Shared Catalog (or Customer Group)","Shared Catalog (or Customer Group)",module,Magento_NegotiableQuoteSharedCatalog
-"Requested product doesn't exist","Requested product doesn't exist",module,Magento_NegotiableQuoteSharedCatalog
+"No such public catalog entity","ऐसा कोई सार्वजनिक कैटलॉग एंटिटी नहीं",module,Magento_NegotiableQuoteSharedCatalog
+"The product that was requested doesn't exist. Verify the product and try again.","अनुरोधित उत्पाद मौजूद नहीं है । उत्पाद की जांच करें और पुन: प्रयास करें ।",module,Magento_NegotiableQuoteSharedCatalog
+"Shared Catalog (or Customer Group)","साझा कैटलॉग (या ग्राहक समूह)",module,Magento_NegotiableQuoteSharedCatalog
+"Requested product doesn't exist","अनुरोधित उत्पाद मौजूद नहीं है",module,Magento_NegotiableQuoteSharedCatalog
 "No New Relic Application ID configured, cannot continue with Cron Event reporting","No New Relic Application ID configured, cannot continue with Cron Event reporting",module,Magento_NewRelicReporting
 "The New Relic integration requires the newrelic-php5 agent, which is not installed. More,module,Magento_NewRelicReporting
 information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.","The New Relic integration requires the newrelic-php5 agent, which is not installed. More,module,Magento_NewRelicReporting
 information on installing the agent is available <a target=""_blank"" href=""%1"">here</a>.",module,Magento_NewRelicReporting
 "New Relic Reporting Section","New Relic Reporting Section",module,Magento_NewRelicReporting
 "New Relic Reporting","New Relic Reporting",module,Magento_NewRelicReporting
-"General","General",module,Magento_NewRelicReporting
+"General","सामान्य",module,Magento_NewRelicReporting
 "Enable New Relic Integration","Enable New Relic Integration",module,Magento_NewRelicReporting
 "New Relic API URL","New Relic API URL",module,Magento_NewRelicReporting
 "Insights API URL","Insights API URL",module,Magento_NewRelicReporting
@@ -8908,14 +8908,14 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Generated under Insights in Manage data -> API Keys -> Insert Keys","Generated under Insights in Manage data -> API Keys -> Insert Keys",module,Magento_NewRelicReporting
 "New Relic Application Name","New Relic Application Name",module,Magento_NewRelicReporting
 "This is located by navigating to Settings from the New Relic APM website","This is located by navigating to Settings from the New Relic APM website",module,Magento_NewRelicReporting
-"Cron","Cron",module,Magento_NewRelicReporting
-"Enable Cron","Enable Cron",module,Magento_NewRelicReporting
+"Cron","क्रॉन",module,Magento_NewRelicReporting
+"Enable Cron","क्रॉन सक्षम करें",module,Magento_NewRelicReporting
 "Send Adminhtml and Frontend as Separate Apps","Send Adminhtml and Frontend as Separate Apps",module,Magento_NewRelicReporting
 "In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.","In addition to the main app (which includes all PHP execution), separate apps for adminhtml and frontend will be created. Requires New Relic Application Name to be set.",module,Magento_NewRelicReporting
 "Delete Selected Problems","Delete Selected Problems",module,Magento_Newsletter
 "Unsubscribe Selected","Unsubscribe Selected",module,Magento_Newsletter
 "Back","पीछे	",module,Magento_Newsletter
-"Reset","Reset",module,Magento_Newsletter
+"Reset","रीसेट",module,Magento_Newsletter
 "Preview Template","Preview Template",module,Magento_Newsletter
 "Save Newsletter","Save Newsletter",module,Magento_Newsletter
 "Save and Resume","Save and Resume",module,Magento_Newsletter
@@ -9276,7 +9276,7 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Billing Agreement #%1","Billing Agreement #%1",module,Magento_Paypal
 "General Information","General Information",module,Magento_Paypal
 "Related Orders","Related Orders",module,Magento_Paypal
-"Order","Order",module,Magento_Paypal
+"Order","ऑर्डर",module,Magento_Paypal
 "Purchased","खरीद",module,Magento_Paypal
 "Bill-to Name","Bill-to Name",module,Magento_Paypal
 "Ship-to Name","Ship-to Name",module,Magento_Paypal
@@ -10860,7 +10860,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Add to Compare","तुलना में जोड़ें",module,Magento_Reports
 "Recently Compared","Recently Compared",module,Magento_Reports
 "Learn More","Learn More",module,Magento_Reports
-"Marketing","Marketing",module,Magento_Reports
+"Marketing","विपणन",module,Magento_Reports
 "Products in Cart","Products in Cart",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
 "Search Terms","Search Terms",module,Magento_Reports
@@ -11360,7 +11360,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Create New RMA for %1","Create New RMA for %1",module,Magento_Rma
 "Create New RMA","Create New RMA",module,Magento_Rma
 "Please Select Order","Please Select Order",module,Magento_Rma
-"Order","Order",module,Magento_Rma
+"Order","ऑर्डर",module,Magento_Rma
 "Purchase Point","Purchase Point",module,Magento_Rma
 "Purchased","खरीद",module,Magento_Rma
 "Customer First Name","Customer First Name",module,Magento_Rma
@@ -11444,7 +11444,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Reason to Return","Reason to Return",module,Magento_Rma
 "Delete","हटाएँ",module,Magento_Rma
 "Add Details","Add Details",module,Magento_Rma
-"Select","Select",module,Magento_Rma
+"Select","चयन",module,Magento_Rma
 "Price","मूल्य",module,Magento_Rma
 "The wrong RMA was requested.","The wrong RMA was requested.",module,Magento_Rma
 "This is the wrong RMA order ID.","This is the wrong RMA order ID.",module,Magento_Rma
@@ -11816,7 +11816,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product","उत्पाद",module,Magento_Sales
 "SKU","SKU",module,Magento_Sales
 "Price","मूल्य",module,Magento_Sales
-"Select","Select",module,Magento_Sales
+"Select","चयन",module,Magento_Sales
 "Quantity","मात्रा",module,Magento_Sales
 "Shipping Address","Shipping Address",module,Magento_Sales
 "Shipping Method","Shipping Method",module,Magento_Sales
@@ -12151,7 +12151,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "The transaction ""%1"" (%2) is already closed.","The transaction ""%1"" (%2) is already closed.",module,Magento_Sales
 "Set order for existing transactions not allowed","Set order for existing transactions not allowed",module,Magento_Sales
 "At minimum, you need to set a payment ID.","At minimum, you need to set a payment ID.",module,Magento_Sales
-"Order","Order",module,Magento_Sales
+"Order","ऑर्डर",module,Magento_Sales
 "Authorization","Authorization",module,Magento_Sales
 "We found an unsupported transaction type ""%1"".","We found an unsupported transaction type ""%1"".",module,Magento_Sales
 "Please set a proper payment and order id.","Please set a proper payment and order id.",module,Magento_Sales
@@ -12657,7 +12657,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "PDF Credit Memos","PDF Credit Memos",module,Magento_SalesArchive
 "Credit Memo","Credit Memo",module,Magento_SalesArchive
 "Created","बनाया",module,Magento_SalesArchive
-"Order","Order",module,Magento_SalesArchive
+"Order","ऑर्डर",module,Magento_SalesArchive
 "Order Date","Order Date",module,Magento_SalesArchive
 "Bill-to Name","Bill-to Name",module,Magento_SalesArchive
 "Status","स्थिति",module,Magento_SalesArchive
@@ -12711,7 +12711,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Add New Rule","Add New Rule",module,Magento_SalesRule
 "Delete","हटाएँ",module,Magento_SalesRule
 "Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
-"Reset","Reset",module,Magento_SalesRule
+"Reset","रीसेट",module,Magento_SalesRule
 "Save and Continue Edit","सहेजें और संपादित करना जारी रखें",module,Magento_SalesRule
 "Save","सहेजें",module,Magento_SalesRule
 "Actions","कार्रवाई",module,Magento_SalesRule
@@ -12779,7 +12779,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Auto","Auto",module,Magento_SalesRule
 "Can't acquire coupon.","Can't acquire coupon.",module,Magento_SalesRule
 "Update the Product","Update the Product",module,Magento_SalesRule
-"Special Price","Special Price",module,Magento_SalesRule
+"Special Price","विशेष मूल्य",module,Magento_SalesRule
 "To Fixed Value","To Fixed Value",module,Magento_SalesRule
 "To Percentage","To Percentage",module,Magento_SalesRule
 "By Fixed value","By Fixed value",module,Magento_SalesRule
@@ -12989,7 +12989,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "File Directory","File Directory",module,Magento_ScheduledImportExport
 "For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir","For Type ""Local Server"" use relative path to Magento installation, e.g. var/export, var/import, var/export/some/dir",module,Magento_ScheduledImportExport
 "FTP Host[:Port]","FTP Host[:Port]",module,Magento_ScheduledImportExport
-"User Name","User Name",module,Magento_ScheduledImportExport
+"User Name","उपयोगकर्ता नाम",module,Magento_ScheduledImportExport
 "Password","पासवर्ड",module,Magento_ScheduledImportExport
 "File Mode","File Mode",module,Magento_ScheduledImportExport
 "Passive Mode","Passive Mode",module,Magento_ScheduledImportExport
@@ -13108,7 +13108,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Back","पीछे	",module,Magento_Search
 "Delete Synonym Group","समानार्थी समूह हटाएं",module,Magento_Search
 "Are you sure you want to delete this synonym group?","Are you sure you want to delete this synonym group?",module,Magento_Search
-"Reset","Reset",module,Magento_Search
+"Reset","रीसेट",module,Magento_Search
 "Save and Continue Edit","सहेजें और संपादित करना जारी रखें",module,Magento_Search
 "Save Synonym Group","Save Synonym Group",module,Magento_Search
 "Search","खोज",module,Magento_Search
@@ -13138,7 +13138,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Synonym Group","Synonym Group",module,Magento_Search
 "Failed to delete %1 synonym group(s).","Failed to delete %1 synonym group(s).",module,Magento_Search
 "A total of %1 synonym group(s) have been deleted.","A total of %1 synonym group(s) have been deleted.",module,Magento_Search
-"Marketing","Marketing",module,Magento_Search
+"Marketing","विपणन",module,Magento_Search
 "Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.","Search synonyms are not supported by the %1 search engine. Any synonyms you enter won't be used.",module,Magento_Search
 "This synonym group no longer exists.","This synonym group no longer exists.",module,Magento_Search
 "You saved the synonym group.","You saved the synonym group.",module,Magento_Search
@@ -13178,7 +13178,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Action","कार्य",module,Magento_Search
 "Edit","संपादित करें",module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
-"Scope","Scope",module,Magento_Search
+"Scope","क्षेत्र",module,Magento_Search
 "Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
 "Synonyms","Synonyms",module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
@@ -13288,7 +13288,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "This action cannot be undone. Are you sure you want to delete this catalog?","This action cannot be undone. Are you sure you want to delete this catalog?",module,Magento_SharedCatalog
 "Duplicate","Duplicate",module,Magento_SharedCatalog
 "Linked Products","Linked Products",module,Magento_SharedCatalog
-"Reset","Reset",module,Magento_SharedCatalog
+"Reset","रीसेट",module,Magento_SharedCatalog
 "Save","सहेजें",module,Magento_SharedCatalog
 "Pricing","Pricing",module,Magento_SharedCatalog
 "Products","उत्पादों",module,Magento_SharedCatalog
@@ -13432,7 +13432,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Type","Type",module,Magento_SharedCatalog
 "Created At","Created At",module,Magento_SharedCatalog
 "Created By","Created By",module,Magento_SharedCatalog
-"Select","Select",module,Magento_SharedCatalog
+"Select","चयन",module,Magento_SharedCatalog
 "discount-prompt","discount-prompt",module,Magento_SharedCatalog
 "This discount will be applied to all selected products. The custom price type will be set to 'Discount'.","This discount will be applied to all selected products. The custom price type will be set to 'Discount'.",module,Magento_SharedCatalog
 "Set Discount","Set Discount",module,Magento_SharedCatalog
@@ -13837,7 +13837,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Calendar","Calendar",module,Magento_Staging
 "Share","Share",module,Magento_Staging
 "Close","बंद करें",module,Magento_Staging
-"Scope","Scope",module,Magento_Staging
+"Scope","क्षेत्र",module,Magento_Staging
 "Scheduled Changes","Scheduled Changes",module,Magento_Staging
 "Start","Start",module,Magento_Staging
 "End","End",module,Magento_Staging
@@ -14029,7 +14029,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Name","नाम",module,Magento_Support
 "Enabled","सक्षम",module,Magento_Support
 "Value","Value",module,Magento_Support
-"Scope","Scope",module,Magento_Support
+"Scope","क्षेत्र",module,Magento_Support
 "Configuration","Configuration",module,Magento_Support
 "Path","Path",module,Magento_Support
 "Data from app/etc/env.php","Data from app/etc/env.php",module,Magento_Support
@@ -14357,7 +14357,7 @@ Select a different range to add a new Future Update.",module,Magento_Staging
 "Tax Titles","Tax Titles",module,Magento_Tax
 "Add New Tax Rate","Add New Tax Rate",module,Magento_Tax
 "Back","पीछे	",module,Magento_Tax
-"Reset","Reset",module,Magento_Tax
+"Reset","रीसेट",module,Magento_Tax
 "Delete Rate","Delete Rate",module,Magento_Tax
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_Tax
 "Save Rate","Save Rate",module,Magento_Tax
@@ -14821,7 +14821,7 @@ than a customer might expect. ",module,Magento_Tax
 "No","नहीं",module,Magento_Ui
 "Done","पूर्ण",module,Magento_Ui
 "options","options",module,Magento_Ui
-"Select...","Select...",module,Magento_Ui
+"Select...","चयन...",module,Magento_Ui
 "Selected","Selected",module,Magento_Ui
 "Select All","सभी का चयन करें",module,Magento_Ui
 "Deselect All","सभी को विचयन करें",module,Magento_Ui
@@ -14974,13 +14974,13 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Initialization error component, check the spelling of the name or the correctness of the call.","Initialization error component, check the spelling of the name or the correctness of the call.",module,Magento_Ui
 "Select Items","Select Items",module,Magento_Ui
 "Actions","कार्रवाई",module,Magento_Ui
-"Select","Select",module,Magento_Ui
+"Select","चयन",module,Magento_Ui
 "Save View As...","Save View As...",module,Magento_Ui
 "Submit","जमा करें",module,Magento_Ui
 "Delete","हटाएँ",module,Magento_Ui
 "Edit","संपादित करें",module,Magento_Ui
 "Columns","Columns",module,Magento_Ui
-"Reset","Reset",module,Magento_Ui
+"Reset","रीसेट",module,Magento_Ui
 "Apply","लागू करें",module,Magento_Ui
 "All in column","All in column",module,Magento_Ui
 "Record contains unsaved changes.","Record contains unsaved changes.",module,Magento_Ui
@@ -15178,7 +15178,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Store View","स्टोर दृश्य",module,Magento_UrlRewrite
 "Edit URL Rewrite","Edit URL Rewrite",module,Magento_UrlRewrite
 "Add New URL Rewrite","Add New URL Rewrite",module,Magento_UrlRewrite
-"Reset","Reset",module,Magento_UrlRewrite
+"Reset","रीसेट",module,Magento_UrlRewrite
 "Back","पीछे	",module,Magento_UrlRewrite
 "Delete","हटाएँ",module,Magento_UrlRewrite
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_UrlRewrite
@@ -15232,7 +15232,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 """url"" argument should be specified and not empty","""url"" argument should be specified and not empty",module,Magento_UrlRewriteGraphQl
 """model"" value should be specified","""model"" value should be specified",module,Magento_UrlRewriteGraphQl
 "Back","पीछे	",module,Magento_User
-"Reset","Reset",module,Magento_User
+"Reset","रीसेट",module,Magento_User
 "Delete Role","Delete Role",module,Magento_User
 "Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_User
 "Save Role","Save Role",module,Magento_User
@@ -15241,7 +15241,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Role Information","Role Information",module,Magento_User
 "Role Users","Role Users",module,Magento_User
 "User ID","User ID",module,Magento_User
-"User Name","User Name",module,Magento_User
+"User Name","उपयोगकर्ता नाम",module,Magento_User
 "First Name","प्रथम नाम",module,Magento_User
 "Last Name","अंतिम नाम",module,Magento_User
 "Email","ईमेल",module,Magento_User
@@ -15310,7 +15310,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Sorry, but this password has already been used. Please create another.","Sorry, but this password has already been used. Please create another.",module,Magento_User
 "email","ईमेल",module,Magento_User
 "password","पासवर्ड",module,Magento_User
-"username","username",module,Magento_User
+"username","उपयोगकर्ता नाम",module,Magento_User
 "You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_User
 "You need more permissions to access this.","You need more permissions to access this.",module,Magento_User
 "Your account is temporarily disabled.","Your account is temporarily disabled.",module,Magento_User
@@ -15364,7 +15364,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Password Change","Password Change",module,Magento_User
 "Unlock","Unlock",module,Magento_User
 "ID","आईडी",module,Magento_User
-"Username","Username",module,Magento_User
+"Username","उपयोगकर्ता नाम",module,Magento_User
 "Last login","Last login",module,Magento_User
 "Failures","Failures",module,Magento_User
 "Unlocked","Unlocked",module,Magento_User
@@ -16091,7 +16091,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Product Exception.","Product Exception.",module,Magento_Wishlist
 "Localized Exception.","Localized Exception.",module,Magento_Wishlist
 "Are you sure you want to remove this item?","Are you sure you want to remove this item?",module,Magento_Wishlist
-"Special Price","Special Price",module,Magento_Wishlist
+"Special Price","विशेष मूल्य",module,Magento_Wishlist
 "Regular Price","नियमित मूल्य",module,Magento_Wishlist
 "Share Wish List","Share Wish List",module,Magento_Wishlist
 "Add All to Cart","Add All to Cart",module,Magento_Wishlist
@@ -16332,10 +16332,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a valid credit card number.","Please enter a valid credit card number.",lib,web
 "Please enter a valid IP v4 address.","Please enter a valid IP v4 address.",lib,web
 "Please enter a valid IP v6 address.","Please enter a valid IP v6 address.",lib,web
-"Invalid format.","Invalid format.",lib,web
+"Invalid format.","अवैध प्रारूप।",lib,web
 "HTML tags are not allowed.","HTML tags are not allowed.",lib,web
-"Please select an option.","Please select an option.",lib,web
-"Empty Value.","Empty Value.",lib,web
+"Please select an option.","कृपया एक विकल्प चुनें।",lib,web
+"Empty Value.","खाली मूल्य।",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.","Please use only letters (a-z or A-Z), numbers (0-9) or spaces only in this field.",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z or A-Z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,web
 "Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.","Please use only letters (a-z or A-Z), numbers (0-9), spaces and ""#"" in this field.",lib,web
@@ -16356,7 +16356,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a number 0 or greater in this field.","Please enter a number 0 or greater in this field.",lib,web
 "Please enter a number greater than 0 in this field.","Please enter a number greater than 0 in this field.",lib,web
 "Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).","Please input a valid CSS-length (Ex: 100px, 77pt, 20em, .5ex or 50%).",lib,web
-"Please enter a valid number in this field.","Please enter a valid number in this field.",lib,web
+"Please enter a valid number in this field.","कृपया इस क्षेत्र में एक मान्य संख्या दर्ज करें।",lib,web
 "The value is not within the specified range.","The value is not within the specified range.",lib,web
 "Please use letters only (a-z or A-Z) in this field.","Please use letters only (a-z or A-Z) in this field.",lib,web
 "Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.","Please use only letters (a-z), numbers (0-9) or underscore (_) in this field, and the first character should be a letter.",lib,web
