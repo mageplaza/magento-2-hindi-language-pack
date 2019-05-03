@@ -4,6 +4,7 @@ Does Magento 2 support Hindi Language for Indian? Yes and **Magento 2 Hindi Lang
 
 Read more [Magento 2 Hindi Language Pack](https://www.mageplaza.com/magento-2-hindi-language-pack.html)
 
+![Mageplaza Hindi language pack](https://i.imgur.com/qjWPj1W.png)
 
 ## Overview
 
