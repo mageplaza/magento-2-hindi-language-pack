@@ -15136,55 +15136,55 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","Transaction has been declined",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"My Account","My Account",theme,frontend\Magento\blank
-"Now Shopping by","अब शॉपिंग करके",theme,frontend\Magento\luma
-"Previous","पिछला",theme,frontend\Magento\luma
-"Remove","हटाना",theme,frontend\Magento\luma
-"Remove This Item","इस सामान को हटाओ",theme,frontend\Magento\luma
-"Shop By","द्वारा खरीदारी",theme,frontend\Magento\luma
-"Clear All","सभी साफ करें",theme,frontend\Magento\luma
-"Shopping Options","खरीदारी के विकल्प",theme,frontend\Magento\luma
-"Welcome to %store_name","%store_name में आपका स्वागत है",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","%store_name में आपका स्वागत है।",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","हमारी साइट पर साइन इन करने के लिए, चेकआउट के दौरान या <a href=""%customer_url""> मेरा खाता </a> पृष्ठ पर इन क्रेडेंशियल्स का उपयोग करें:",theme,frontend\Magento\luma
-"Email:","ईमेल:",theme,frontend\Magento\luma
-"Password:","पारण शब्द:",theme,frontend\Magento\luma
-"Password you set when creating account","खाता बनाते समय आपके द्वारा निर्धारित पासवर्ड",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","अपना खाता पासवर्ड भूल गए? इसे रीसेट करने के लिए <a href=""%reset_url""> यहां </a> क्लिक करें।",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","जब आप अपने खाते में साइन इन करते हैं, तो आप निम्न में सक्षम होंगे:",theme,frontend\Magento\luma
-"Quick Checkout","त्वरित जाँच",theme,frontend\Magento\luma
-"Proceed through checkout faster","तेजी से चेकआउट के माध्यम से आगे बढ़ें",theme,frontend\Magento\luma
-"Order Status","आदेश की स्थिति",theme,frontend\Magento\luma
-"Check the status of orders","आदेशों की स्थिति की जाँच करें",theme,frontend\Magento\luma
-"Manage Addresses","पते प्रबंधित करें",theme,frontend\Magento\luma
-"Store alternative addresses","वैकल्पिक पते स्टोर करें",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","कई परिवार के सदस्यों और दोस्तों के लिए शिपिंग के लिए",theme,frontend\Magento\luma
-"Order History","आदेश इतिहास",theme,frontend\Magento\luma
-"View past orders","पिछले आदेश देखें",theme,frontend\Magento\luma
-"Footer","फ़ुटबाल",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","आपके% store_name ऑर्डर के लिए क्रेडिट मेमो",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","% Store_name से आपके आदेश के लिए धन्यवाद।",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","आप अपने आदेश की स्थिति <a href=""%account_url""> अपने खाते में लॉग इन करके </a> देख सकते हैं।",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","यदि आपके पास अपने आदेश के बारे में प्रश्न हैं, तो आप हमें <a href=""mailto:%store_email"">% store_mailail </a> पर ईमेल कर सकते हैं।",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","आपका क्रेडिट मेमो #%creditmemo_id ऑर्डर के लिए #%order_id",theme,frontend\Magento\luma
-"Billing Info","बिलिंग जानकारी",theme,frontend\Magento\luma
-"Payment Method","भुगतान का तरीका",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","अपने %store_name क्रेडिट मेमो को अपडेट करें",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","आपके आदेश #%increment_id को <strong>%order_status </ strong> की स्थिति के साथ अपडेट किया गया है।",theme,frontend\Magento\luma
-"Invoice for your %store_name order","आपके %store_name ऑर्डर के लिए चालान",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","आपका चालान #%invoice_id ऑर्डर के लिए #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","अपने% store_name चालान पर अपडेट करें",theme,frontend\Magento\luma
-"Your %store_name order confirmation","आपका% store_name आदेश की पुष्टि करता है",theme,frontend\Magento\luma
-"%customer_name,","%ग्राहक का नाम,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","एक बार आपके पैकेज के जहाज हम आपको एक ट्रैकिंग नंबर भेज देंगे।",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","आपका आदेश <span class = ""no-link""> #% increment_id </ span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","<Span class = ""no-link"">% create_at </ span> पर रखा गया",theme,frontend\Magento\luma
-"Update to your %store_name order","अपने% store_name क्रम में अपडेट करें",theme,frontend\Magento\luma
-"Your %store_name order has shipped","आपके %store_name आदेश को भेज दिया गया है",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","आपके शिपिंग पुष्टि नीचे है। आपके व्यवसाय के लिए फिर से धन्यवाद।",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","आपका शिपमेंट #%शिपमेंट_ के लिए ऑर्डर #% ऑर्डर_आईडी",theme,frontend\Magento\luma
-"Update to your %store_name shipment","अपने %store_name शिपमेंट में अपडेट करें",theme,frontend\Magento\luma
+"My Account","My Account",theme,frontend/Magento/blank
+"Now Shopping by","अब शॉपिंग करके",theme,frontend/Magento/luma
+"Previous","पिछला",theme,frontend/Magento/luma
+"Remove","हटाना",theme,frontend/Magento/luma
+"Remove This Item","इस सामान को हटाओ",theme,frontend/Magento/luma
+"Shop By","द्वारा खरीदारी",theme,frontend/Magento/luma
+"Clear All","सभी साफ करें",theme,frontend/Magento/luma
+"Shopping Options","खरीदारी के विकल्प",theme,frontend/Magento/luma
+"Welcome to %store_name","%store_name में आपका स्वागत है",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","%store_name में आपका स्वागत है।",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","हमारी साइट पर साइन इन करने के लिए, चेकआउट के दौरान या <a href=""%customer_url""> मेरा खाता </a> पृष्ठ पर इन क्रेडेंशियल्स का उपयोग करें:",theme,frontend/Magento/luma
+"Email:","ईमेल:",theme,frontend/Magento/luma
+"Password:","पारण शब्द:",theme,frontend/Magento/luma
+"Password you set when creating account","खाता बनाते समय आपके द्वारा निर्धारित पासवर्ड",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","अपना खाता पासवर्ड भूल गए? इसे रीसेट करने के लिए <a href=""%reset_url""> यहां </a> क्लिक करें।",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","जब आप अपने खाते में साइन इन करते हैं, तो आप निम्न में सक्षम होंगे:",theme,frontend/Magento/luma
+"Quick Checkout","त्वरित जाँच",theme,frontend/Magento/luma
+"Proceed through checkout faster","तेजी से चेकआउट के माध्यम से आगे बढ़ें",theme,frontend/Magento/luma
+"Order Status","आदेश की स्थिति",theme,frontend/Magento/luma
+"Check the status of orders","आदेशों की स्थिति की जाँच करें",theme,frontend/Magento/luma
+"Manage Addresses","पते प्रबंधित करें",theme,frontend/Magento/luma
+"Store alternative addresses","वैकल्पिक पते स्टोर करें",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","कई परिवार के सदस्यों और दोस्तों के लिए शिपिंग के लिए",theme,frontend/Magento/luma
+"Order History","आदेश इतिहास",theme,frontend/Magento/luma
+"View past orders","पिछले आदेश देखें",theme,frontend/Magento/luma
+"Footer","फ़ुटबाल",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","आपके% store_name ऑर्डर के लिए क्रेडिट मेमो",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","% Store_name से आपके आदेश के लिए धन्यवाद।",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","आप अपने आदेश की स्थिति <a href=""%account_url""> अपने खाते में लॉग इन करके </a> देख सकते हैं।",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","यदि आपके पास अपने आदेश के बारे में प्रश्न हैं, तो आप हमें <a href=""mailto:%store_email"">% store_mailail </a> पर ईमेल कर सकते हैं।",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","आपका क्रेडिट मेमो #%creditmemo_id ऑर्डर के लिए #%order_id",theme,frontend/Magento/luma
+"Billing Info","बिलिंग जानकारी",theme,frontend/Magento/luma
+"Payment Method","भुगतान का तरीका",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","अपने %store_name क्रेडिट मेमो को अपडेट करें",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","आपके आदेश #%increment_id को <strong>%order_status </ strong> की स्थिति के साथ अपडेट किया गया है।",theme,frontend/Magento/luma
+"Invoice for your %store_name order","आपके %store_name ऑर्डर के लिए चालान",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","आपका चालान #%invoice_id ऑर्डर के लिए #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","अपने% store_name चालान पर अपडेट करें",theme,frontend/Magento/luma
+"Your %store_name order confirmation","आपका% store_name आदेश की पुष्टि करता है",theme,frontend/Magento/luma
+"%customer_name,","%ग्राहक का नाम,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","एक बार आपके पैकेज के जहाज हम आपको एक ट्रैकिंग नंबर भेज देंगे।",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","आपका आदेश <span class = ""no-link""> #% increment_id </ span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","<Span class = ""no-link"">% create_at </ span> पर रखा गया",theme,frontend/Magento/luma
+"Update to your %store_name order","अपने% store_name क्रम में अपडेट करें",theme,frontend/Magento/luma
+"Your %store_name order has shipped","आपके %store_name आदेश को भेज दिया गया है",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","आपके शिपिंग पुष्टि नीचे है। आपके व्यवसाय के लिए फिर से धन्यवाद।",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","आपका शिपमेंट #%शिपमेंट_ के लिए ऑर्डर #% ऑर्डर_आईडी",theme,frontend/Magento/luma
+"Update to your %store_name shipment","अपने %store_name शिपमेंट में अपडेट करें",theme,frontend/Magento/luma
 "Details","Details",lib,web
 "Warning: No message defined for %s","Warning: No message defined for %s",lib,web
 "Backup options","बैकअप विकल्प",lib,web
