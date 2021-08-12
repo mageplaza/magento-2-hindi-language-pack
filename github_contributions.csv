@@ -1,1 +1,11 @@
-Mageplaza,Mageplaza
+"or","अथवा",module,Magento_Braintree
+"or","अथवा",module,Magento_Customer
+"or","अथवा",module,Magento_Paypal
+"Create an Account","नया खाता बनाएं",module,Magento_Checkout
+"Create an Account","नया खाता बनाएं",module,Magento_Company
+"Create an Account","नया खाता बनाएं",module,Magento_Customer
+"Create an Account","नया खाता बनाएं",module,Magento_CustomerCustomAttributes
+"Search entire store here...","यहां पूरी दुकान खोजें...",module,Magento_Search
+"We can't find products matching the selection.","हमें चयन से मेल खाने वाले प्रोडक्ट्स नहीं मिल रहे हैं।",module,Magento_Catalog
+"My Wish List","मेरी इच्छा सूची",module,Magento_Wishlist
+"You have no items in your wish list.","आपकी इच्छा सूची में कोई आइटम्स नहीं है।",module,Magento_Wishlist
